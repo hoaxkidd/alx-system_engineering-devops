@@ -1,2 +1,2 @@
 #!/bin/bash
-teln starwarsiv.com
+telnet towel.blinkenlights.nl
